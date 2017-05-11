@@ -1,0 +1,9 @@
+{ 
+    "_id" : ObjectId("583347d48192c09f3386666e"), 
+    "_class" : "com.backend.entity.security.Role", 
+    "name" : "ROLE_USER", 
+    "userRoles" : [
+
+    ]
+}
+
